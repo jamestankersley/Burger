@@ -1,0 +1,27 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "handlebars": "^4.7.3",
+    "mysql": "^2.18.1",
+    "orm": "^5.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestankersley/Burger.git"
+  },
+  "author": "James Tankersley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamestankersley/Burger/issues"
+  },
+  "homepage": "https://github.com/jamestankersley/Burger#readme"
+}
